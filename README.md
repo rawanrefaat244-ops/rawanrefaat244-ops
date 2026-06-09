@@ -1,4 +1,4 @@
-# Hi, I'm Rawan Refaat
+# Hi, I'm Rawan Shehata
 
 PharmD graduate interested in biotechnology, protein research, bioinformatics, and machine learning.
 
