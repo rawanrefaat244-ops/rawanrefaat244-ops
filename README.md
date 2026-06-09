@@ -19,7 +19,7 @@ PharmD graduate interested in biotechnology, protein research, bioinformatics, a
 ## DecodeLabs Internship Projects
 
 - [DecodeLabs AI Project](https://github.com/rawanrefaat244-ops/decodelabs-ai-project)  
-  A beginner Python chatbot project developed during the DecodeLabs internship.
+  Python AI internship projects and experiments.
 
 - [DecodeLabs Cybersecurity Project](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-project)  
-  A cybersecurity-focused Python tool for checking password strength.
+  Python cybersecurity internship projects and tools.
