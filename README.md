@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rawan Refaat
 
-<!--
-**rawanrefaat244-ops/rawanrefaat244-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PharmD graduate interested in biotechnology, protein research, bioinformatics, and machine learning.
 
-Here are some ideas to get you started:
+## Protein / Bioinformatics Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Protein Solubility Predictor](https://github.com/rawanrefaat244-ops/protein-solubility-predictor)  
+  Machine learning pipeline for predicting protein solubility from FASTA sequences.
+
+- [Protein Secondary Structure Predictor](https://github.com/rawanrefaat244-ops/protein-secondary-structure-predictor)  
+  SVM-based secondary structure prediction project using DSSP-derived Q3 labels.
+
+- [Protein Aggregation Risk Predictor](https://github.com/rawanrefaat244-ops/protein-aggregation-risk-predictor)  
+  Sequence-based aggregation risk scanner using physicochemical and local-window features.
+
+- [Protein Developability Profiler](https://github.com/rawanrefaat244-ops/protein-developability-profiler)  
+  Heuristic sequence-based profiler for developability-related features and liability motifs.
+
+## DecodeLabs Internship Projects
+
+- [DecodeLabs AI Chatbot](https://github.com/rawanrefaat244-ops/decodelabs-ai-chatbot)  
+  A beginner Python chatbot project developed during the DecodeLabs internship.
+
+- [DecodeLabs Password Checker](https://github.com/rawanrefaat244-ops/decodelabs-password-checker)  
+  A cybersecurity-focused Python tool for checking password strength.
