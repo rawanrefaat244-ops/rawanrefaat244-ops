@@ -18,8 +18,8 @@ PharmD graduate interested in biotechnology, protein research, bioinformatics, a
 
 ## DecodeLabs Internship Projects
 
-- [DecodeLabs AI Chatbot](https://github.com/rawanrefaat244-ops/decodelabs-ai-chatbot)  
+- [DecodeLabs AI Project](https://github.com/rawanrefaat244-ops/decodelabs-ai-project)  
   A beginner Python chatbot project developed during the DecodeLabs internship.
 
-- [DecodeLabs Password Checker](https://github.com/rawanrefaat244-ops/decodelabs-password-checker)  
+- [DecodeLabs Cybersecurity Project](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-project)  
   A cybersecurity-focused Python tool for checking password strength.
