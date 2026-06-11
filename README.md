@@ -18,8 +18,8 @@ PharmD graduate interested in biotechnology, protein research, bioinformatics, a
 
 ## DecodeLabs Internship Projects
 
-- [DecodeLabs AI Projects](https://github.com/rawanrefaat244-ops/decodelabs-ai-project)  
+- [Artificial Intelligence Projects](https://github.com/rawanrefaat244-ops/decodelabs-ai-project)  
   Python AI internship projects and experiments.
 
-- [DecodeLabs Cybersecurity Projects](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-project)  
+- [Cybersecurity Projects](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-project)  
   Python cybersecurity internship projects and tools.
