@@ -1,6 +1,6 @@
 # Hi, I'm Rawan Shehata
 
-PharmD graduate interested in biotechnology, protein research, bioinformatics, and machine learning.
+PharmD graduate interested in antibody engineering, biotechnology, protein research, and bioinformatics, combining life sciences with machine learning, AI, Cybersecurity, and Data Analytics.
 
 ## Protein / Bioinformatics Projects
 
