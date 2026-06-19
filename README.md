@@ -18,8 +18,12 @@ PharmD graduate interested in antibody engineering, biotechnology, protein resea
 
 ## DecodeLabs Internship Projects
 
-- [Artificial Intelligence Projects](https://github.com/rawanrefaat244-ops/decodelabs-ai-project)  
-  Python AI internship projects and experiments.
+- [Artificial Intelligence Projects](https://github.com/rawanrefaat244-ops/decodelabs-ai-projects)  
+  Python AI projects focused on rule-based systems, classification models, and recommendation logic.
 
-- [Cybersecurity Projects](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-project)  
-  Python cybersecurity internship projects and tools.
+- [Cybersecurity Projects](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-projects)  
+  Python cybersecurity projects focused on password strength analysis, encryption, and basic security concepts.
+  
+- [Data Analytics Projects](https://github.com/rawanrefaat244-ops/decodelabs-data-analytics-projects)
+  Python data analytics projects focused on data cleaning, preparation, validation, and building reliable datasets for analysis.
+
