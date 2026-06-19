@@ -24,6 +24,6 @@ PharmD graduate interested in antibody engineering, biotechnology, protein resea
 - [Cybersecurity Projects](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-projects)  
   Python cybersecurity projects focused on password strength analysis, encryption, and basic security concepts.
   
-- [Data Analytics Projects](https://github.com/rawanrefaat244-ops/decodelabs-data-analytics-projects)
+- [Data Analytics Projects](https://github.com/rawanrefaat244-ops/decodelabs-data-analytics-projects)  
   Python data analytics projects focused on data cleaning, preparation, validation, and building reliable datasets for analysis.
 
