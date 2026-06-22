@@ -22,8 +22,8 @@ PharmD graduate interested in antibody engineering, biotechnology, protein resea
   Python AI projects focused on rule-based systems, classification models, and recommendation logic.
 
 - [Cybersecurity Projects](https://github.com/rawanrefaat244-ops/decodelabs-cybersecurity-projects)  
-  Python cybersecurity projects focused on password strength analysis, encryption, and basic security concepts.
+  Python cybersecurity projects focused on password security, encryption, phishing awareness, threat analysis, and risk detection.
   
 - [Data Analytics Projects](https://github.com/rawanrefaat244-ops/decodelabs-data-analytics-projects)  
-  Python data analytics projects focused on data cleaning, preparation, validation, and building reliable datasets for analysis.
+  Python data analytics projects focused on data cleaning, validation, exploratory analysis, visualization, and insight-driven reporting.
 
