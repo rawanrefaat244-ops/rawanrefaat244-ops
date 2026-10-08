@@ -16,7 +16,7 @@ PharmD graduate interested in antibody engineering, biotechnology, protein resea
 - [Protein Developability Profiler](https://github.com/rawanrefaat244-ops/protein-developability-profiler)  
   Heuristic sequence-based profiler for developability-related features and liability motifs.
 
-## CodeAlpha Internship Projects
+## Decodelabs Internship Projects
 
 - [Artificial Intelligence Projects](https://github.com/rawanrefaat244-ops/decodelabs-ai-projects)  
   Python AI projects covering rule-based systems, machine learning classification, recommendation systems, and OCR-based text recognition.
